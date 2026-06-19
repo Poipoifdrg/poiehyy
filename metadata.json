@@ -1,0 +1,6 @@
+{
+  "name": "paopao",
+  "description": "Elegant & Luxury Modern C2C/B2C Consignment and Shopping Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
